@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Customer" />
+        <module name="Library" />
+        <module name="Admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Admin (1)" target="11" />
+      <module name="Admin (2)" target="17" />
+      <module name="Admin (3)" target="17" />
+      <module name="Customer (1) (com.example)" target="11" />
+      <module name="Customer (2)" target="17" />
+      <module name="Customer (2) (com.ecommerce.customer)" target="17" />
+      <module name="Customer (3)" target="17" />
+      <module name="Ecommerce-Springboot" target="11" />
+      <module name="Library (1)" target="11" />
+      <module name="Library (2)" target="17" />
+      <module name="Library (3)" target="17" />
+      <module name="Spring-Boot-Ecommerce-Update-Version" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Admin" options="-parameters" />
+      <module name="Admin (1)" options="-parameters" />
+      <module name="Admin (2)" options="-parameters" />
+      <module name="Admin (3)" options="-parameters" />
+      <module name="Customer" options="-parameters" />
+      <module name="Customer (1) (com.example)" options="-parameters" />
+      <module name="Customer (2)" options="-parameters" />
+      <module name="Customer (2) (com.ecommerce.customer)" options="-parameters" />
+      <module name="Customer (3)" options="-parameters" />
+      <module name="Library" options="-parameters" />
+      <module name="Library (1)" options="-parameters" />
+      <module name="Library (2)" options="-parameters" />
+      <module name="Library (3)" options="-parameters" />
+    </option>
+  </component>
+</project>

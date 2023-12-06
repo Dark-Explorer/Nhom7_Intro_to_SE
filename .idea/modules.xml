@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ecommerce_Lastest_Ver/Admin/Admin.iml" filepath="$PROJECT_DIR$/Ecommerce_Lastest_Ver/Admin/Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ecommerce_for_consulting.iml" filepath="$PROJECT_DIR$/.idea/Ecommerce_for_consulting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ecommerce_Lastest_Ver/Library/Library.iml" filepath="$PROJECT_DIR$/Ecommerce_Lastest_Ver/Library/Library.iml" />
+    </modules>
+  </component>
+</project>
